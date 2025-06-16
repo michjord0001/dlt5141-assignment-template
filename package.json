@@ -1,0 +1,19 @@
+{
+  "name": "dlt5141-assignment-template",
+  "version": "1.0.0",
+  "description": "VS Code Extensions: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite preview",
+    "dev": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
